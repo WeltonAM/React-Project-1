@@ -15,4 +15,4 @@ npm start
 https://uigradients.com/#Cinnamint
 
 ## 💻 See more:
-https://www.linkedin.com/feed/update/urn:li:ugcPost:7013828341552017409/
+[Demonstrative video](https://www.linkedin.com/feed/update/urn:li:ugcPost:7013828341552017409/)
