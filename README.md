@@ -1,6 +1,13 @@
 ### 🌐 React Calculator
 
-## 🚀 How to run this project:
+## 🚀 How to execute this project:
+
+Make sure to have all dependencies installed:
+
+```
+npm i
+```
+Now run it:
 
 ```
 npm start
